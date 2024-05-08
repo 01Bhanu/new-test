@@ -5,6 +5,7 @@ import './App.css'
 import Login from './pages/Login'
 import Places from './pages/Places'
 import MainRoutes from './routes/MainRoutes'
+
 import Home from './pages/Home'
 function App() {
   const [count, setCount] = useState(0)
